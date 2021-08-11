@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 80px;
+  margin-left: 10px;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  background: #ff0022;
+  border: 1px solid #ff0022;
+  transition: 0.3s all;
+  border-radius: 6px;
+}
